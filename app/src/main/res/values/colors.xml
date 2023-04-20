@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Khaki1">#FFF68F</color>
+    <color name="Khaki2">#EEE685</color>
+    <color name="Khaki3">#CDC673</color>
+    <color name="Khaki4">#8B864E</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
